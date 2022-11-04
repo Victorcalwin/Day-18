@@ -1,0 +1,28 @@
+body {
+  
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    /*background: #222;*/
+   /* background-image: url('https://source.unsplash.com/1600x900/?landscape');*/
+   /* font-size: 120%;*/
+    overflow: hidden;
+  }
+  .box{
+    padding: 30px;
+    align-items: center;
+    text-align: center;
+
+    justify-content: center;
+
+  }
+  .mainbox{
+    justify-content: center;
+    display: flex;
+
+  
+  }
+
+ 
